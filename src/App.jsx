@@ -9,6 +9,7 @@ import { Projects } from "./components/Projects/Projects";
 function App() {
   return (
     <div className={styles.App}>
+      <h1>i</h1>
       <Navbar />
       <Hero />
       <About />
